@@ -88,7 +88,7 @@ A growing innovation hub focused on:
 
 ## 📫 Connect With Me  
 📧 Email: **bndungu061@gmail.com**  
-🔗 LinkedIn: **linkedin.com/in/brian-ndungu-ab2638273/**  
+🔗 LinkedIn: **linkedin.com/in/brian-ndungu-datascientist/**  
 🐙 GitHub: **github.com/Ndunguuu01**
 
 ---
@@ -108,5 +108,5 @@ A growing innovation hub focused on:
 ## 📫 Contact
 
 - 📧 Email: bndungu061@gmail.com  
-- 🌐 LinkedIn: https://www.linkedin.com/in/brian-ndungu-ab2638273/
+- 🌐 LinkedIn: https://www.linkedin.com/in/brian-ndungu-datascientist
 - 🔗 GitHub: [github.com/Ndunguuu01](https://github.com/Ndunguuu01)
